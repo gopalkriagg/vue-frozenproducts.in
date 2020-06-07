@@ -1,7 +1,7 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="dark" variant="dark">
-      <b-navbar-brand href="#">Frozen Products</b-navbar-brand>
+    <b-navbar toggleable="lg" type="dark" variant="dark" fixed="top">
+      <b-navbar-brand href="#">Modern Frozen Products</b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
