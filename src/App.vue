@@ -1,12 +1,22 @@
 <template>
   <div id="app">
     <NavBar />
-    <b-container class="bv-example-row">
-      <b-img src="./assets/modern_frozen_products_logo.png" fluid alt="Responsive image"></b-img>
-      <b-row>
-        <b-col>1 of 3</b-col>
-        <b-col>2 of 3</b-col>
-        <b-col>3 of 3</b-col>
+    <b-container class="bv-example-row mt-4">
+      <b-row align-h="center">
+        <b-col sm="3">
+          <b-img
+            src="./assets/modern_frozen_products_logo.png"
+            fluid
+            alt="Responsive image"
+          ></b-img>
+        </b-col>
+      </b-row>
+      <b-row align-h="center" class="mt-2">
+        <b-col sm="4">
+          <h1 class="mx-auto">
+            <b-badge variant="success">Modern Frozen Products</b-badge>
+          </h1>
+        </b-col>
       </b-row>
     </b-container>
   </div>
