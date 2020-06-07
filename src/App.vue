@@ -23,7 +23,7 @@
           <b-card no-body class="overflow-hidden">
             <b-row no-gutters>
               <b-col md="6">
-                <b-card-body title="Horizontal Card">
+                <b-card-body>
                   <b-card-text>
                     <div>
                       <p>
@@ -81,11 +81,7 @@
                 </b-card-body>
               </b-col>
               <b-col md="6">
-                <b-card-img
-                  src="https://picsum.photos/400/400/?image=20"
-                  alt="Image"
-                  class="rounded-0"
-                ></b-card-img>
+                <Carousel />
               </b-col>
             </b-row>
           </b-card>
@@ -97,11 +93,13 @@
 
 <script>
 import NavBar from "./components/NavBar";
+import Carousel from './components/Carousel';
 
 export default {
   name: "App",
   components: {
     NavBar,
+    Carousel,
   },
 };
 </script>
