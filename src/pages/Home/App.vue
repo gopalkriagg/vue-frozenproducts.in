@@ -5,7 +5,7 @@
       <b-row align-h="center">
         <b-col sm="3">
           <b-img
-            src="./assets/modern_frozen_products_logo.png"
+            src="../../assets/modern_frozen_products_logo.png"
             fluid
             alt="Responsive image"
           ></b-img>
@@ -92,8 +92,8 @@
 </template>
 
 <script>
-import NavBar from "./components/NavBar";
-import Carousel from './components/Carousel';
+import NavBar from "../../components/NavBar";
+import Carousel from '../../components/Carousel';
 
 export default {
   name: "App",
@@ -106,7 +106,7 @@ export default {
 
 <style>
 body {
-  background-image: url("assets/background.jpg");
+  background-image: url("../../assets/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
