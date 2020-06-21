@@ -30,5 +30,11 @@ module.exports = {
       title: 'Contact Us',
       chunks: ['chunk-vendors', 'chunk-common', 'contact']
     },
+    'faqs': {
+      entry: './src/pages/FAQs/main.js',
+      template: 'public/index.html',
+      title: 'Frequently Asked Questions',
+      chunks: ['chunk-vendors', 'chunk-common', 'faqs']
+    },
   }
 }
