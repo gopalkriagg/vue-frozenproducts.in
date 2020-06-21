@@ -2,6 +2,7 @@
   <div id="app">
     <NavBar />
     <b-container class="bv-example-row mt-4">
+      <b-row class="my-5" />
       <b-row align-h="center">
         <b-col sm="3">
           <b-img
