@@ -88,19 +88,22 @@
           </b-card>
         </b-col>
       </b-row>
+      <counter />
     </b-container>
   </div>
 </template>
 
 <script>
 import NavBar from "../../components/NavBar";
-import Carousel from '../../components/Carousel';
+import Carousel from "../../components/Carousel";
+import Counter from "../../components/Counter";
 
 export default {
   name: "App",
   components: {
     NavBar,
     Carousel,
+    Counter,
   },
 };
 </script>
