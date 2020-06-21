@@ -25,8 +25,8 @@
 
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <b-nav-item href="#">Facebook</b-nav-item>
-          <b-nav-item href="#">Mail</b-nav-item>
+          <b-nav-item href="http://facebook.com/frozengreenpeas">Facebook</b-nav-item>
+          <b-nav-item href="mailto:ashwini.bindu@gmail.com">Mail</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
