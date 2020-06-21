@@ -7,20 +7,20 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item :active="$page === 'Home'" href="/index">Home</b-nav-item>
-          <b-nav-item :active="$page === 'About'" href="/about"
+          <b-nav-item :active="$page === 'Home'" href="/index.html">Home</b-nav-item>
+          <b-nav-item :active="$page === 'About'" href="/about.html"
             >About Us</b-nav-item
           >
-          <b-nav-item :active="$page === 'Products'" href="/products"
+          <b-nav-item :active="$page === 'Products'" href="/products.html"
             >Products</b-nav-item
           >
-          <b-nav-item :active="$page === 'Quote'" href="/quote"
+          <b-nav-item :active="$page === 'Quote'" href="/quote.html"
             >Get a Quote</b-nav-item
           >
-          <b-nav-item :active="$page === 'ContactUs'" href="/contact"
+          <b-nav-item :active="$page === 'ContactUs'" href="/contact.html"
             >Contact Us</b-nav-item
           >
-          <b-nav-item :active="$page === 'FAQs'" href="/faqs">FAQs</b-nav-item>
+          <b-nav-item :active="$page === 'FAQs'" href="/faqs.html">FAQs</b-nav-item>
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->
