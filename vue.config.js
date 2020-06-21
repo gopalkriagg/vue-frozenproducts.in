@@ -24,5 +24,11 @@ module.exports = {
       title: 'Get A Quote',
       chunks: ['chunk-vendors', 'chunk-common', 'quote']
     },
+    'contact': {
+      entry: './src/pages/ContactUs/main.js',
+      template: 'public/index.html',
+      title: 'Contact Us',
+      chunks: ['chunk-vendors', 'chunk-common', 'contact']
+    },
   }
 }

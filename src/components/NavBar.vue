@@ -11,7 +11,7 @@
           <b-nav-item href="/about">About Us</b-nav-item>
           <b-nav-item href="/products">Products</b-nav-item>
           <b-nav-item href="/quote">Get a Quote</b-nav-item>
-          <b-nav-item href="#">Contact Us</b-nav-item>
+          <b-nav-item href="/contact">Contact Us</b-nav-item>
           <b-nav-item href="#">FAQs</b-nav-item>
         </b-navbar-nav>
 
