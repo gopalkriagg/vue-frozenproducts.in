@@ -26,52 +26,25 @@
                 <b-card-body>
                   <b-card-text>
                     <div>
+                      <h4>
+                        Brief Profile of Bindu Gupta
+                        <small>(MBA Finance, M.Com)</small>
+                      </h4>
                       <p>
-                        ABOUT ABOUT ABOUT
-                      </p>
-                      <p>
-                        Quotation on request.
-                      </p>
-                      <p>
-                        Packings Available 30 kg, 5 kg, 1kg, 500 gms and 200
-                        gms.
-                      </p>
-                      <p>
-                        Payment 100% advance. Supply Pan India.
-                      </p>
-
-                      <address>
-                        <strong
-                          >For any query regarding frozen products, please fill
-                          <a href="quote.html">'Get a quote Form'</a> or
-                          contact:
-                        </strong>
-                        <br />
-                        Modern Frozen Products
-                        <br />
-                        (GSTIN 06AGTPB7133Q1ZU)
-                        <br />
-                        Bindu Gupta
-                        <br />
-                        <abbr title="Phone">Mobile:</abbr> +91-9815411199
-                        (WhatsApp), +91-9779246448
-                        <br />
-                        <a href="mailto:ashwini.bindu@gmail.com?subject="
-                          >E-mail: ashwini.bindu@gmail.com</a
-                        >
-                      </address>
-                      <p>
-                        We also have
-                        <a
-                          href="https://www.indiamart.com/modernfrozenproducts/"
-                          >our catalogue of products at India Mart Website.</a
-                        >
-                      </p>
-                      <p>
-                        We will get back to you very soon.
-                        <br />
-                        Thank you for your time and interest!
-                        <br />
+                        <ul>
+                          <li>
+                            She has rich experience of more than Eighteen years in the field of frozen products.
+                          </li>
+                          <li>
+                            She deals in all kinds of frozen products, mainly frozen green peas, sweet corn, baby corn, carrot,
+                            cauliflower, broccoli, cut beans, okra, three way and four way mixed vegetable.
+                          </li>
+                          <li>
+                            USP of her business is A+ quality of products, best rates and best service in the industry.
+                          </li>
+                        </ul>
+                      We are a team of high level professionals working in the area of supplying IQF Green Peas/vegetables all over
+                      India for more than a decade.
                       </p>
                     </div>
                   </b-card-text>
@@ -90,7 +63,7 @@
 
 <script>
 import NavBar from "../../components/NavBar";
-import Carousel from '../../components/Carousel';
+import Carousel from "../../components/Carousel";
 
 export default {
   name: "App",
