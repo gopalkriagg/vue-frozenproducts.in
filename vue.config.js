@@ -18,5 +18,11 @@ module.exports = {
       title: 'Products',
       chunks: ['chunk-vendors', 'chunk-common', 'products']
     },
+    'quote': {
+      entry: './src/pages/Quote/main.js',
+      template: 'public/index.html',
+      title: 'Get A Quote',
+      chunks: ['chunk-vendors', 'chunk-common', 'quote']
+    },
   }
 }
