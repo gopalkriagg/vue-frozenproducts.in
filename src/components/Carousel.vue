@@ -1,10 +1,6 @@
 <template>
   <div>
-    <b-carousel
-      :interval="4000"
-      controls
-      indicators
-    >
+    <b-carousel :interval="4000" controls indicators>
       <b-carousel-slide
         caption="India Mart Trust Seal"
         text="Received India Mart Trust Seal"
@@ -49,6 +45,11 @@
       <b-carousel-slide
         caption="IQF Cut Beans"
         img-src="../assets/frozen_cut_beans.jpg"
+      />
+
+      <b-carousel-slide
+        caption="IQF Capsicum Dice"
+        img-src="../assets/capsicum.jpg"
       />
     </b-carousel>
   </div>
