@@ -80,18 +80,21 @@
                   class="fb-page"
                   data-href="https://www.facebook.com/frozengreenpeas"
                   data-tabs="timeline"
+                  data-width="500"
+                  data-height="800"
                   data-small-header="false"
                   data-adapt-container-width="true"
                   data-hide-cover="false"
                   data-show-facepile="true"
                 >
-                  <div class="fb-xfbml-parse-ignore">
-                    <blockquote cite="https://www.facebook.com/frozengreenpeas">
-                      <a href="https://www.facebook.com/frozengreenpeas"
-                        >Frozen Green Peas</a
-                      >
-                    </blockquote>
-                  </div>
+                  <blockquote
+                    cite="https://www.facebook.com/frozengreenpeas"
+                    class="fb-xfbml-parse-ignore"
+                  >
+                    <a href="https://www.facebook.com/frozengreenpeas"
+                      >Frozen Green Peas</a
+                    >
+                  </blockquote>
                 </div>
               </b-col>
             </b-row>
