@@ -61,6 +61,32 @@
                       >
                     </p>
                     <p>
+                      <a href="https://www.dibiz.com/ashwinibindu"
+                        >Business card</a
+                      >
+                      <br />
+                      <a href="www.facebook.com/frozengreenpeas">Facebook</a>
+                      <br />
+                      <a href="www.indiamart.com/modernfrozenproducts"
+                        >IndiaMart</a
+                      >
+                      <br />
+                      <a
+                        href="https://www.linkedin.com/in/bindu-gupta-049969199/"
+                        >Linkedin</a
+                      >
+                      <br />
+                      <a href="https://www.instagram.com/frozengreenpeas/"
+                        >Instagram</a
+                      >
+                      <br />
+                      <a
+                        href="https://www.facebook.com/groups/1394921407573109/?ref=share"
+                        >Join our Facebook group for daily updates on Frozen
+                        Green Peas</a
+                      >
+                    </p>
+                    <p>
                       We will get back to you very soon.
                       <br />
                       Thank you for your time and interest!

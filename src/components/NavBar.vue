@@ -25,7 +25,11 @@
 
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <b-nav-item href="http://facebook.com/frozengreenpeas">Facebook</b-nav-item>
+          <b-nav-item href="https://www.facebook.com/frozengreenpeas">Facebook</b-nav-item>
+          <b-nav-item href="https://www.indiamart.com/modernfrozenproducts/">IndiaMart</b-nav-item>
+          <b-nav-item href="https://www.linkedin.com/in/bindu-gupta-049969199/">LinkedIn</b-nav-item>
+          <b-nav-item href="https://www.instagram.com/frozengreenpeas/">Instagram</b-nav-item>
+          <b-nav-item href="https://api.whatsapp.com/send?phone=919815411199&text=">Whatsapp</b-nav-item>
           <b-nav-item href="mailto:ashwini.bindu@gmail.com">Mail</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
