@@ -13,11 +13,9 @@
         </b-col>
       </b-row>
       <b-row align-h="center" class="mt-2">
-        <b-col sm="4">
-          <h1 class="mx-auto">
-            <b-badge variant="success">Modern Frozen Products</b-badge>
-          </h1>
-        </b-col>
+        <h1 class="mx-auto">
+          <b-badge variant="success">Modern Frozen Products</b-badge>
+        </h1>
       </b-row>
       <b-row align-h="center" class="mt-2">
         <b-col>
