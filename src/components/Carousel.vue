@@ -8,38 +8,33 @@
       />
 
       <b-carousel-slide
+        caption="Bindu Gupta"
+        img-src="../assets/bindu_gupta.jpg"
+      />
+
+      <b-carousel-slide
         caption="IQF Green Peas"
-        img-src="../assets/frozen_peas.jpg"
+        img-src="../assets/frozen_green_peas.jpg"
       />
 
       <b-carousel-slide
         caption="Frozen Vegetables Collage"
-        img-src="../assets/collage.jpg"
+        img-src="../assets/product_variety.jpg"
       />
 
       <b-carousel-slide
         caption="IQF Sweet Corn"
-        img-src="../assets/frozen_corn.jpg"
+        img-src="../assets/frozen_sweet_corn.jpg"
       />
 
       <b-carousel-slide
         caption="IQF Mix Vegetables"
-        img-src="../assets/frozen_mix_veg.jpg"
+        img-src="../assets/frozen_mixed_vegetable.jpg"
       />
 
       <b-carousel-slide
         caption="IQF Baby Corn"
-        img-src="../assets/frozen_baby_corn.jpg"
-      />
-
-      <b-carousel-slide
-        caption="IQF Carrot"
-        img-src="../assets/frozen_carrot.jpg"
-      />
-
-      <b-carousel-slide
-        caption="IQF Cauliflower"
-        img-src="../assets/frozen_cauliflower.jpg"
+        img-src="../assets/corn_on_cob.jpg"
       />
 
       <b-carousel-slide
@@ -48,9 +43,10 @@
       />
 
       <b-carousel-slide
-        caption="IQF Capsicum Dice"
-        img-src="../assets/capsicum.jpg"
+        caption="Modern Frozen Products"
+        img-src="../assets/modern_frozen_products.jpg"
       />
+
     </b-carousel>
   </div>
 </template>
