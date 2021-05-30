@@ -35,7 +35,6 @@
           </b-card>
         </b-col>
       </b-row>
-      <counter />
     </b-container>
   </div>
 </template>
@@ -44,7 +43,6 @@
 import NavBar from "../../components/NavBar";
 import Carousel from "../../components/Carousel";
 import QuoteForm from "./QuoteForm";
-import Counter from "../../components/Counter";
 
 export default {
   name: "App",
@@ -52,7 +50,6 @@ export default {
     NavBar,
     Carousel,
     QuoteForm,
-    Counter,
   },
 };
 </script>
