@@ -32,55 +32,65 @@
                       </p>
                       <ol>
                         <li v-b-modal.peas-modal>
-                          IQF Green Peas (Packings available: 30 kg loose, 5 kg,
-                          1 kg, 500 g and 200 g)
+                          <b-link>IQF Green Peas (Packings available: 30 kg loose, 5 kg,
+                          1 kg, 500 g and 200 g)</b-link>
                         </li>
                         <b-modal id="peas-modal" size="lg">
                           <b-img src="../../assets/frozen_green_peas.jpg" fluid/>
                         </b-modal>
 
                         <li v-b-modal.sweet-corn-modal>
-                          IQF/Blast Sweet Corn
+                          <b-link>IQF/Blast Sweet Corn</b-link>
                         </li>
                         <b-modal id="sweet-corn-modal" size="lg">
                           <b-img src="../../assets/frozen_sweet_corn.jpg" fluid/>
                         </b-modal>
 
                         <li v-b-modal.mix-veg-modal>
-                          IQF Mix Vegetable
+                          <b-link>IQF Mix Vegetable</b-link>
                         </li>
                         <b-modal id="mix-veg-modal" size="lg">
                           <b-img src="../../assets/frozen_mixed_vegetable.jpg" fluid/>
                         </b-modal>
 
-                        <li v-b-modal.carrot-modal>IQF Carrot</li>
+                        <li v-b-modal.carrot-modal>
+                          <b-link>IQF Carrot</b-link>
+                        </li>
                         <b-modal id="carrot-modal" size="lg">
                           <b-img src="../../assets/frozen_carrot_diced.jpg" fluid/>
                         </b-modal>
 
-                        <li v-b-modal.beans-modal>IQF Beans</li>
+                        <li v-b-modal.beans-modal>
+                          <b-link>IQF Beans</b-link>
+                        </li>
                         <b-modal id="beans-modal" size="lg">
                           <b-img src="../../assets/frozen_cut_beans.jpg" fluid/>
                         </b-modal>
 
-                        <li v-b-modal.cauliflower-modal>IQF Cauliflower</li>
+                        <li v-b-modal.cauliflower-modal>
+                          <b-link>IQF Cauliflower</b-link>
+                        </li>
                         <b-modal id="cauliflower-modal" size="lg">
                           <b-img src="../../assets/frozen_cauliflower_florets.jpg" fluid/>
                         </b-modal>
 
                         <li v-b-modal.baby-corn-modal>
-                          IQF Baby Corn
+                          <b-link>IQF Baby Corn</b-link>
                         </li>
                         <b-modal id="baby-corn-modal" size="lg">
                           <b-img src="../../assets/frozen_baby_corn.jpg" fluid/>
                         </b-modal>
 
-                        <li v-b-modal.broccoli-modal>IQF Broccoli</li>
+                        <li v-b-modal.broccoli-modal>
+                          <b-link>IQF Broccoli</b-link>
+                        </li>
                         <b-modal id="broccoli-modal" size="lg">
                           <b-img src="../../assets/frozen_broccoli_florets.jpg" fluid/>
                         </b-modal>
 
-                        <li v-b-modal.corn-on-cob-modal>Corn on cob</li>
+                        <li v-b-modal.corn-on-cob-modal>
+                          <b-link>Corn on cob</b-link>
+                        </li>
                         <b-modal id="corn-on-cob-modal" size="lg">
                           <b-img src="../../assets/corn_on_cob.jpg" fluid/>
                         </b-modal>
