@@ -47,8 +47,10 @@
                         <li>
                           IQF Baby Corn
                         </li>
-                        <li v-b-modal.my-modal>IQF Broccoli</li>
-                        <b-modal id="my-modal">Hello From My Modal!</b-modal>
+                        <li v-b-modal.broccoli-modal>IQF Broccoli</li>
+                        <b-modal id="broccoli-modal" size="lg">
+                          <b-img src="../../assets/frozen_broccoli_florets.jpg" fluid/>
+                        </b-modal>
                         <li>Corn on cob</li>
                         <li>
                           Any other vegetable can be processed on confirmed
