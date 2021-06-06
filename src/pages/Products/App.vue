@@ -31,27 +31,60 @@
                         required by you:
                       </p>
                       <ol>
-                        <li>
+                        <li v-b-modal.peas-modal>
                           IQF Green Peas (Packings available: 30 kg loose, 5 kg,
                           1 kg, 500 g and 200 g)
                         </li>
-                        <li>
+                        <b-modal id="peas-modal" size="lg">
+                          <b-img src="../../assets/frozen_green_peas.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.sweet-corn-modal>
                           IQF/Blast Sweet Corn
                         </li>
-                        <li>
+                        <b-modal id="sweet-corn-modal" size="lg">
+                          <b-img src="../../assets/frozen_sweet_corn.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.mix-veg-modal>
                           IQF Mix Vegetable
                         </li>
-                        <li>IQF Carrot</li>
-                        <li>IQF Beans</li>
-                        <li>IQF Cauliflower</li>
-                        <li>
+                        <b-modal id="mix-veg-modal" size="lg">
+                          <b-img src="../../assets/frozen_mixed_vegetable.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.carrot-modal>IQF Carrot</li>
+                        <b-modal id="carrot-modal" size="lg">
+                          <b-img src="../../assets/frozen_carrot_diced.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.beans-modal>IQF Beans</li>
+                        <b-modal id="beans-modal" size="lg">
+                          <b-img src="../../assets/frozen_cut_beans.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.cauliflower-modal>IQF Cauliflower</li>
+                        <b-modal id="cauliflower-modal" size="lg">
+                          <b-img src="../../assets/frozen_cauliflower_florets.jpg" fluid/>
+                        </b-modal>
+
+                        <li v-b-modal.baby-corn-modal>
                           IQF Baby Corn
                         </li>
+                        <b-modal id="baby-corn-modal" size="lg">
+                          <b-img src="../../assets/frozen_baby_corn.jpg" fluid/>
+                        </b-modal>
+
                         <li v-b-modal.broccoli-modal>IQF Broccoli</li>
                         <b-modal id="broccoli-modal" size="lg">
                           <b-img src="../../assets/frozen_broccoli_florets.jpg" fluid/>
                         </b-modal>
-                        <li>Corn on cob</li>
+
+                        <li v-b-modal.corn-on-cob-modal>Corn on cob</li>
+                        <b-modal id="corn-on-cob-modal" size="lg">
+                          <b-img src="../../assets/corn_on_cob.jpg" fluid/>
+                        </b-modal>
+
                         <li>
                           Any other vegetable can be processed on confirmed
                           order in any quantity during season.
