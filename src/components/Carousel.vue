@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <b-carousel :interval="4000" controls>
+  <div style="height:800px;">
+    <b-carousel :interval="4000" controls img-height="400px">
       <b-carousel-slide img-src="../assets/india_mart_certificate.jpg" />
 
       <b-carousel-slide img-src="../assets/bindu_gupta.jpg" />

@@ -36,19 +36,20 @@
                           1 kg, 500 g and 200 g)
                         </li>
                         <li>
-                          IQF Mix Vegetable
+                          IQF/Blast Sweet Corn
                         </li>
                         <li>
-                          IQF Sweet Corn
+                          IQF Mix Vegetable
                         </li>
+                        <li>IQF Carrot</li>
+                        <li>IQF Beans</li>
+                        <li>IQF Cauliflower</li>
                         <li>
                           IQF Baby Corn
                         </li>
-                        <li>IQF Okra</li>
-                        <li>IQF Carrot</li>
-                        <li>IQF Cauliflower</li>
-                        <li>IQF Beans</li>
-                        <li>IQF Broccoli</li>
+                        <li v-b-modal.my-modal>IQF Broccoli</li>
+                        <b-modal id="my-modal">Hello From My Modal!</b-modal>
+                        <li>Corn on cob</li>
                         <li>
                           Any other vegetable can be processed on confirmed
                           order in any quantity during season.

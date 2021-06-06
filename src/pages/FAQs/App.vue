@@ -175,7 +175,6 @@
                   <li>
                     IQF Baby Corn
                   </li>
-                  <li>IQF Okra</li>
                   <li>IQF Carrot</li>
                   <li>IQF Cauliflower</li>
                   <li>IQF Beans</li>
