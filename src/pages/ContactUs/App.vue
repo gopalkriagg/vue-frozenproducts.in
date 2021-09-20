@@ -63,9 +63,9 @@
                         >Business card</a
                       >
                       <br />
-                      <a href="www.facebook.com/frozengreenpeas">Facebook</a>
+                      <a href="https://www.facebook.com/frozengreenpeas">Facebook</a>
                       <br />
-                      <a href="www.indiamart.com/modernfrozenproducts"
+                      <a href="https://www.indiamart.com/modernfrozenproducts"
                         >IndiaMart</a
                       >
                       <br />
