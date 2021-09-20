@@ -1,5 +1,11 @@
 # vue-frozenproducts.in
 
+## Release Steps
+
+1. Run `npm run build`
+2. Login to web host
+3. Upload files in dist folder
+
 ## Project setup
 ```
 npm install
